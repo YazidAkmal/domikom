@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|e:\\yazid\\kuliah\\semester 3\\pemrograman lanjut\\git\\uts\\finalproject\\finalproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C10209C4-9462-4FE6-8C9D-B902F1B3561C}|finalProject\\finalProject.csproj|solutionrelative:finalproject\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\Program.cs",
+              "RelativeDocumentMoniker": "finalProject\\Program.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\Program.cs",
+              "RelativeToolTip": "finalProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:23:21.443Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\SignUp.cs",
+              "RelativeDocumentMoniker": "finalProject\\SignUp.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\SignUp.cs [Design]",
+              "RelativeToolTip": "finalProject\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:42:18.132Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\SignUp.cs",
+              "RelativeDocumentMoniker": "finalProject\\SignUp.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\SignUp.cs",
+              "RelativeToolTip": "finalProject\\SignUp.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAcwCEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T11:48:24.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\dashboard.cs",
+              "RelativeDocumentMoniker": "finalProject\\dashboard.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\dashboard.cs [Design]",
+              "RelativeToolTip": "finalProject\\dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T04:16:48.298Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.cs [Design]",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\login.cs",
+              "RelativeDocumentMoniker": "finalProject\\login.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\login.cs [Design]",
+              "RelativeToolTip": "finalProject\\login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T02:02:09.98Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.cs",
+              "DocumentMoniker": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\login.cs",
+              "RelativeDocumentMoniker": "finalProject\\login.cs",
+              "ToolTip": "E:\\yazid\\kuliah\\SEMESTER 3\\pemrograman lanjut\\git\\uts\\finalProject\\finalProject\\login.cs",
+              "RelativeToolTip": "finalProject\\login.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAA4wF0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-01T01:32:46.894Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
