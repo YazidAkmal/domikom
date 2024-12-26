@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="domikom.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="2359"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Pengguna" custom_title="0" dock_id="1" table="4,8:mainPengguna"/><dock_state state="000000ff00000000fd0000000100000002000003c90000026afc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000003c90000011e00ffffff000002690000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Donasi" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="59"/><column index="2" value="78"/><column index="3" value="82"/><column index="4" value="87"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pengguna" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="4" mode="1"/></sort><column_widths><column index="1" value="77"/><column index="2" value="186"/><column index="3" value="62"/><column index="4" value="167"/><column index="5" value="47"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">UPDATE Pengguna
-SET Username = 'Testing 3', peran = 'Admin', email = 'test3@amikom.ac.id'
-WHERE PenggunaID = 4;
-</sql><current_tab id="0"/></tab_sql></sqlb_project>
+<?xml version="1.0" encoding="UTF-8"?><sqlb_project><db path="domikom.db" readonly="0" foreign_keys="1" case_sensitive_like="0" temp_store="0" wal_autocheckpoint="1000" synchronous="2"/><attached/><window><main_tabs open="structure browser pragmas query" current="1"/></window><tab_structure><column_width id="0" width="300"/><column_width id="1" width="0"/><column_width id="2" width="100"/><column_width id="3" width="3710"/><column_width id="4" width="0"/><expanded_item id="0" parent="1"/><expanded_item id="0" parent="0"/><expanded_item id="3" parent="0"/><expanded_item id="5" parent="0"/><expanded_item id="1" parent="1"/><expanded_item id="2" parent="1"/><expanded_item id="3" parent="1"/></tab_structure><tab_browse><table title="Donasi" custom_title="0" dock_id="1" table="4,6:mainDonasi"/><dock_state state="000000ff00000000fd0000000100000002000003910000026afc0100000001fb000000160064006f0063006b00420072006f00770073006500310100000000000003910000011e00ffffff000002690000000000000004000000040000000800000008fc00000000"/><default_encoding codec=""/><browse_table_settings><table schema="main" name="Donasi" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="59"/><column index="2" value="78"/><column index="3" value="82"/><column index="4" value="87"/><column index="5" value="91"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Kampanye" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort><column index="0" mode="0"/></sort><column_widths><column index="1" value="81"/><column index="2" value="191"/><column index="3" value="300"/><column index="4" value="70"/><column index="5" value="71"/><column index="6" value="90"/><column index="7" value="84"/><column index="8" value="107"/><column index="9" value="300"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Kategori" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="69"/><column index="2" value="191"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Metode_Pembayaran" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="136"/><column index="2" value="83"/><column index="3" value="113"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Pengguna" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="77"/><column index="2" value="79"/><column index="3" value="62"/><column index="4" value="167"/><column index="5" value="47"/><column index="6" value="87"/><column index="7" value="231"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table><table schema="main" name="Transaksi" show_row_id="0" encoding="" plot_x_axis="" unlock_view_pk="_rowid_" freeze_columns="0"><sort/><column_widths><column index="1" value="76"/><column index="2" value="60"/><column index="3" value="104"/><column index="4" value="108"/></column_widths><filter_values/><conditional_formats/><row_id_formats/><display_formats/><hidden_columns/><plot_y_axes/><global_filter/></table></browse_table_settings></tab_browse><tab_sql><sql name="SQL 1*">ALTER TABLE &quot;Kampanye_Old&quot; RENAME TO &quot;Kampanye&quot;;
+
+CREATE TABLE &quot;Kampanye&quot; (
+    &quot;KampanyeID&quot; INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    &quot;Judul&quot; VARCHAR(50),
+    &quot;Deskripsi&quot; TEXT,
+    &quot;Kategori&quot; INT,
+    &quot;DibuatOleh&quot; INT,
+    &quot;TanggalDibuat&quot; TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    &quot;TargetDonasi&quot; DECIMAL(15, 2),
+    &quot;DonasiTerkumpul&quot; DECIMAL(15, 2) DEFAULT 0.00,
+    &quot;gambar&quot; TEXT,
+    FOREIGN KEY(&quot;DibuatOleh&quot;) REFERENCES &quot;Pengguna&quot;(&quot;PenggunaID&quot;),
+    FOREIGN KEY(&quot;Kategori&quot;) REFERENCES &quot;Kategori&quot;(&quot;KategoriID&quot;)
+);
+
+INSERT INTO &quot;Kampanye&quot; (&quot;KampanyeID&quot;, &quot;Judul&quot;, &quot;Deskripsi&quot;, &quot;Kategori&quot;, &quot;DibuatOleh&quot;, &quot;TanggalDibuat&quot;, &quot;TargetDonasi&quot;, &quot;DonasiTerkumpul&quot;, &quot;gambar&quot;)
+SELECT &quot;KampanyeID&quot;, &quot;Judul&quot;, &quot;Deskripsi&quot;, &quot;KategoriID&quot;, &quot;DibuatOleh&quot;, &quot;TanggalDibuat&quot;, &quot;TargetDonasi&quot;, &quot;DonasiTerkumpul&quot;, &quot;gambar&quot;
+FROM &quot;Kampanye_Old&quot;;
+
+DROP TABLE &quot;Kampanye_Old&quot;;
+
+ALTER TABLE Donasi 
+ADD COLUMN Metode VARCHAR(50);,
+CONSTRAINT &quot;fk_MetodePembayaran&quot; FOREIGN KEY(&quot;Metode&quot;) REFERENCES &quot;Metode_Pembayaran&quot;(&quot;MetodePembayaranID&quot;);
+
+
+CREATE TABLE &quot;Donasi_New&quot; (
+	&quot;DonasiID&quot;	INTEGER NOT NULL,
+	&quot;Nama&quot;	VARCHAR(100),
+	&quot;PenggunaID&quot;	INT,
+	&quot;KampanyeID&quot;	INT,
+	&quot;JumlahDonasi&quot;	DECIMAL(15, 2) NOT NULL,
+	&quot;TanggalDonasi&quot;	TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+	&quot;Pesan&quot;	TEXT,
+	&quot;Metode&quot;	VARCHAR(50),
+	PRIMARY KEY(&quot;DonasiID&quot; AUTOINCREMENT),
+	CONSTRAINT &quot;fk_kampanye&quot; FOREIGN KEY(&quot;KampanyeID&quot;) REFERENCES &quot;Kampanye&quot;(&quot;KampanyeID&quot;),
+	CONSTRAINT &quot;fk_pengguna&quot; FOREIGN KEY(&quot;PenggunaID&quot;) REFERENCES &quot;Pengguna&quot;(&quot;PenggunaID&quot;),
+	CONSTRAINT &quot;fk_MetodePembayaran&quot;FOREIGN KEY (&quot;Metode&quot;) REFERENCES &quot;Metode_Pembayaran&quot;(&quot;MetodePembayaranID&quot;)
+);
+
+INSERT INTO Donasi_New (DonasiID, Nama, PenggunaID, KampanyeID, JumlahDonasi, TanggalDonasi, Pesan, Metode)
+SELECT DonasiID, Nama, PenggunaID, KampanyeID, JumlahDonasi, TanggalDonasi, Pesan, NULL
+FROM Donasi;
+
+INSERT INTO Metode_Pembayaran (MetodePembayaranID, NamaMetode)
+VALUES
+(&quot;M001&quot;, &quot;E-Wallet&quot;),
+(&quot;M002&quot;, &quot;Bank&quot;);
+
+ALTER TABLE Donasi_New RENAME TO Donasi;
+
+
+DROP TABLE Donasi_New;</sql><current_tab id="0"/></tab_sql></sqlb_project>

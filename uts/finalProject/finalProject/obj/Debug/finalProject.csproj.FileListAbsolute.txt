@@ -22,8 +22,6 @@ E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\tugas\uts\finalProject\finalProjec
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\tugas\uts\finalProject\finalProject\obj\Debug\finalProject.exe
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\tugas\uts\finalProject\finalProject\obj\Debug\finalProject.pdb
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\tugas\uts\finalProject\finalProject\bin\Debug\finalProject.pdb
-E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\bin\Debug\Database1.mdf
-E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\bin\Debug\Database1_log.ldf
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\bin\Debug\finalProject.exe.config
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\bin\Debug\finalProject.exe
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\bin\Debug\finalProject.pdb
@@ -46,3 +44,9 @@ E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalPro.89E8D4F4.Up2Date
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.exe
 E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.pdb
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.Tampilan.Donation.resources
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.Tampilan.Home.resources
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.Tampilan.Profile.resources
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.DonationPopUp.resources
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.DetailDonasi.resources
+E:\yazid\kuliah\SEMESTER 3\pemrograman lanjut\git\uts\finalProject\finalProject\obj\Debug\finalProject.Tampilan.history.resources

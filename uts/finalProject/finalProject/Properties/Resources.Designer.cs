@@ -73,6 +73,26 @@ namespace finalProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap child {
+            get {
+                object obj = ResourceManager.GetObject("child", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap child1 {
+            get {
+                object obj = ResourceManager.GetObject("child1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap domikom {
             get {
                 object obj = ResourceManager.GetObject("domikom", resourceCulture);
@@ -133,6 +153,16 @@ namespace finalProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap milk_child {
+            get {
+                object obj = ResourceManager.GetObject("milk child", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap money {
             get {
                 object obj = ResourceManager.GetObject("money", resourceCulture);
@@ -146,6 +176,16 @@ namespace finalProject.Properties {
         internal static System.Drawing.Bitmap money__1_ {
             get {
                 object obj = ResourceManager.GetObject("money (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap palestine_children {
+            get {
+                object obj = ResourceManager.GetObject("palestine children", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -223,6 +263,16 @@ namespace finalProject.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap search {
+            get {
+                object obj = ResourceManager.GetObject("search", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Snapinsta_app_397371878_361372026452724_862723091025976871_n_1080 {
             get {
                 object obj = ResourceManager.GetObject("Snapinsta.app_397371878_361372026452724_862723091025976871_n_1080", resourceCulture);
@@ -266,6 +316,26 @@ namespace finalProject.Properties {
         internal static System.Drawing.Bitmap user__3_ {
             get {
                 object obj = ResourceManager.GetObject("user (3)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap volunteer_holding_box_containing_donations_charity {
+            get {
+                object obj = ResourceManager.GetObject("volunteer-holding-box-containing-donations-charity", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap volunteer_holding_box_containing_donations_charity_Recovered {
+            get {
+                object obj = ResourceManager.GetObject("volunteer-holding-box-containing-donations-charity-Recovered", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
